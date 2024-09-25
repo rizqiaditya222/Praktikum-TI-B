@@ -13,11 +13,11 @@ public class switchCase{
         //     default:
         //       // code block
         //   }
-          double num = 2;
+          String hari = "Selasa";
           // String day = "Senin";
           // String jenisHari = "Kliwon";
-          switch (num) {
-            case 2:
+          switch (hari) {
+            case "Selasa":
               System.out.println("Hari ini adalah hari Selasa");
               break;
             case "Rabu":
